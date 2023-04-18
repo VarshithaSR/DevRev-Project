@@ -1,0 +1,130 @@
+[
+  
+  {
+    "title": "Psychology of Money",
+    "author": "Morgan Housel ",
+    "publish_date": "1-09-2020",
+    "address": "Somewhere in Indonesia",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Stalked by the Kraken is a monster romance that features tentacles. This book is a standalone and takes place in the same world as, and prior to the events of, Three of Hearts with some character crossover.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Commit To Yourself",
+    "author": "Nancy Katyal",
+    "publish_date": "30-11-2022",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "We Were Liars, is clever, alluring, and wildly addictive. Each summer the wealthy, seemingly perfect, members of the Sinclair family gather on their private island. We Were Liars is the story of those annual reunions; in particular what happened during a summer that protagonist Cadence is unable to remember. Prejudice, greed, and shifting patriarchal favoritism among the three adult sisters contrasts with the camaraderie and worldview of the teenage cousins and their dear friend Gat.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "The Happiness Hypothesis",
+    "author": "Jonathan Haidt",
+    "publish_date": "24-2-2022",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Best friends, Jess and Vicks, aren't clicking like they use to, so Jess has a plan that will bring her and Vicks close again - a road trip to see Vicks's boyfriend, Brady, who is at University. There's only one issue, they don't have enough money to fund the trip. Enter Mel, the new girl. Mel volunteers to help them fund the trip as long as they take her along with them, much to Jess's dismay.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Influence : The Psychology of Persuasion",
+    "author": "PhD Robert B. Cialdini",
+    "publish_date": "1-09-2020",
+    "address": "Somewhere in Indonesia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "A series puts a fresh spin on the Cinderella story!Tonight the mirror swept us into Cinderella's fairy tale. Now, we are NOT messing this story up. No way. Cinderella is going to marry her prince just like she's supposed to. Uh-oh. Cinderella broke her foot and there's massive swelling. The glass slipper won't fit, the prince won't know she's the one for him, and they won't live happily ever after.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Mistakes Were Made (but Not by Me)",
+    "author": "Carol Tavri",
+    "publish_date": "1-09-2020",
+    "address": "Somewhere in Japan",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "A woman’s future is determined by fate and choice in a gripping WWII novel about danger, triumph, and second chances by the New York Times bestselling author of The Venice Sketchbook and The Tuscan Child.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Broken Bonds",
+    "author": "J Bree",
+    "publish_date": "28-6-2021",
+    "address": "Somewhere in France",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "On the face of it, life is idyllic for Eli and Lena Kogan. Living in their beautiful house in the Irish countryside, their children are growing up happy and safe surrounded by a loving community.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Deceived by the Gargoyles",
+    "author": "Lillian Lark",
+    "publish_date": "31-01-2022",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "A beautiful story about life in the Appalachian hills in the 1930s. Men were in the coal mines, there was no education for girls, life was beyond poor. But for the MacInteer Family their faith and family pulled them through, and they persevered.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "The Never King",
+    "author": "Nikki St. Crowe",
+    "publish_date": "24-2-2022",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "Love marriages around the world are simple: Boy loves girl. Girl loves boy. They get married. In India, there are a few more steps: Boy loves Girl. Girl loves Boy. Girl's family has to love boy. Boy's family has to love girl. Girl's Family has to love Boy's Family. Boy's family has to love girl's family. Girl and Boy still love each other.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img08.jpg",
+    "featured": false
+  },
+  {
+    "title": "Stalked by the Kraken",
+    "author": "Lillian Lark",
+    "publish_date": "1-09-2020",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "Half Girlfriend is an Indian English coming of age, young adult romance novel by Indian author Chetan Bhagat.[1] The novel, set in rural Bihar, New Delhi, Patna, and New York, is the story of a Bihari boy on a quest of winning over the girl he loves.",
+    "reviews": [],
+
+    "photo": "/book-images/book-img09.jpg",
+    "featured": false
+  }
+]
+

@@ -1,0 +1,64 @@
+.borrow{
+    padding:2rem;
+    border-radius:0.5rem;
+    border:1px solid rgb(229, 231, 235);
+    position:sticky;
+    top:80px;
+}
+
+.borrow__top h3{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.borrow__top h3 span{
+    font-size: 1.1rem;
+    font-weight:400;
+    color: var(--text-color);
+
+}
+
+.borrow__top span{
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+.borrow__top span i{
+    color: var(--secondary-color);
+}
+
+.borrow__top{
+    padding-top: 2rem;
+    border-bottom: 1px solid rgb(229, 231, 235);
+
+}
+
+.borrow__form{
+    padding: 2rem;
+}
+
+.ooking__form h5{
+    margin-bottom: 1rem;
+}
+
+.borrow__form input{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    color: var(--heading-color);
+    font-size:1rem ;
+    border: none;
+    border-bottom: 1px solid rgb(229, 231, 235);
+
+}
+
+.border__form input:focus{
+    outline: none;
+}
+
+.borrow__info-form{
+    padding: 1rem;
+    border:1px solid rgb(229, 231, 235);
+}
+
